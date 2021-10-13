@@ -1,2 +1,5 @@
-*bin
-*obj
+[Bb]in/
+[Oo]bj/
+*.suo
+*.[Cc]ache
+!?*.[Cc]ache/
